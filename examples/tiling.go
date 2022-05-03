@@ -1,6 +1,6 @@
 package main
 
-import "github.com/fogleman/gg"
+import "github.com/zhang-jianqiang/gg"
 
 func main() {
 	const NX = 4
