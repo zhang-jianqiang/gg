@@ -1,16 +1,12 @@
 # Go Graphics
 
-`gg` is a library for rendering 2D graphics in pure Go.
+`gg` is a library for rendering 2D graphics in pure Go and fork [fogleman/gg](https://github.com/fogleman/gg)
 
 ![Stars](http://i.imgur.com/CylQIJt.png)
 
 ## Installation
 
-    go get -u github.com/zhang-jianqiang/gg
-
-Alternatively, you may use gopkg.in to grab a specific major-version:
-
-    go get -u gopkg.in/fogleman/gg.v1
+    go get github.com/zhang-jianqiang/gg
 
 ## Documentation
 
